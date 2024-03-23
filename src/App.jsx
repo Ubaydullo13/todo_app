@@ -1,4 +1,3 @@
-import "./App.css";
 import { MdModeEdit, MdDelete } from "react-icons/md";
 import { useRef, useState, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
